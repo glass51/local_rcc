@@ -155,7 +155,7 @@ void thread() {
 	patch_generate_schema_definition_packet();
 	std::println("Patched RBX::Network::NetworkSchema::generateSchemaDefinitionPacket.");
 
-	std::println("Made with <3 by 7ap & Epix @ https://github.com/rsblox - come join us!");
+	std::println("Made with <3 by Epix @ https://github.com/rsblox - come join us!");
 }
 
 BOOL WINAPI DllMain(HMODULE module, DWORD reason, LPVOID) {
